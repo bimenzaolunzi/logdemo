@@ -1,4 +1,6 @@
 /parent.iws
 /src/
 /parent.ipr
-/.idea/
+*.iml
+target/*
+/.idea
