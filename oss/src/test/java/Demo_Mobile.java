@@ -11,10 +11,7 @@ import java.util.stream.Collectors;
 public class Demo_Mobile {
 
     public void test() throws IOException {
-        // 1:声明地址
-        //Scanner scanner = new Scanner(System.in);
-        //String tel = scanner.nextLine();
-        //      String tel = "15098003370";
+
         String dxList = "133、149、153、173、177、180、181、189、190、191、193、199";
         String ltList = "130、131、132、145、155、156、166、167、171、175、176、185、186、196";
         String ydList = "134、135、136、137、138、139、1440、147、148、150、151、152、157、158、159、172、178、182、183、184、187、188、195、197、198";
